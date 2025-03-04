@@ -2,4 +2,4 @@
 
 ![Layout](https://files.catbox.moe/8704a6.png)
 
-This repository stores web scraping scripts for experimental purposes.
+A simple project for storing my web scraping results. It’s meant for experimental use only.
